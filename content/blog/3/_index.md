@@ -285,25 +285,6 @@ The -n option disables the automatic printing, which means the lines you don't s
 
 ![Задание 28](image/30.png)
 
-`plot 'data.csv' using 1:2` даст ошибку:
-
-`warning: Skipping data file with no valid points ^ x range is invalid`
-
-Скорее всего причиной такого поведения является тот факт, что формат CSV содержит строки, где столбцы разделены запятой? Содержимое файла:
-
-```
-1,21
-2,22
-3,23
-4,24
-5,25
-6,26
-7,27
-8,28
-9,29
-10,30
-```
-
 ![Задание 29](image/31.png)
 
 Cначала идет команда установки подписей, а потом в скобках:
