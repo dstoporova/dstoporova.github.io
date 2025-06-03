@@ -1,5 +1,7 @@
 build:
   hugo_version: '0.136.5'
+  future: true  
+
 content:
   home:
-    sections: [collection]  # Разрешить отображение коллекцийcontent:
+    sections: [collection]
