@@ -16,14 +16,5 @@ sections:
     content:
       filters:
         folders: [blog]
-      title: "Последние записи блога"
-      count: 5
-      sort_by: 'Date'
-      sort_ascending: false
-      layout: list
-    design:
-      spacing:
-        padding: ['3rem', 0, '6rem', 0]
-      view: list
-      columns: '1'
----
+      count: 3
+---   
