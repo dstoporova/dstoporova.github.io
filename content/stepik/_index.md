@@ -1,4 +1,4 @@
 ---
-title: "Blog"
+title: "Stepik"
 type: blog
 ---

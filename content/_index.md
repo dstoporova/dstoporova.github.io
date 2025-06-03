@@ -15,6 +15,6 @@ sections:
   - block: collection
     content:
       filters:
-        folders: [blog]
+        folders: [stepik]
       count: 3
 ---   
