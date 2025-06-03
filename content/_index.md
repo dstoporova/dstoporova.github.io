@@ -26,7 +26,7 @@ sections:
         exclude_past: false
         publication_type: ""
       offset: 0
-      order: desk
+      order: desc
         folders:
           - blog
     design:
